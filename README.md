@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Web Crawler](https://github.com/peetuskytta/Crawler)
 
-- 🤝 I’m looking for and internship **in IT**
+- 🤝 I’m currently:   **open to work (junior/intern)**
 
-- 🌱 I'm currently learning Backend **and web development Backend and web development**
+- 🌱 I'm currently learning   **Python, SQL, Web**
 
-- 💬 Ask me about **How I let phisher test my web app, pizza and sourdough**
+- 💬 Ask me about   **why I let phisher test my web app**
 
 - 📫 How to reach me **peetu.skytta@gmail.com**
 
