@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for and internship **in IT**
 
-- 🌱 I'm currently learning [Backend and web development](Backend and web development)
+- 🌱 I'm currently learning Backend **and web development Backend and web development**
 
 - 💬 Ask me about **How I let phisher test my web app, pizza and sourdough**
 
