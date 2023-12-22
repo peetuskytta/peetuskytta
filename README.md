@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Peetu Skyttä</h1>
 <h3 align="center">Software Developer student @Hive Helsinki</h3>
 
-- 🔭 I’m currently working on [Web Crawler](https://github.com/peetuskytta/Crawler)
+- 🔭 I’m currently working on **rebuilding a website** backend with Go
 
 - 🤝 I’m currently:   **open to work (junior/intern)**
 
