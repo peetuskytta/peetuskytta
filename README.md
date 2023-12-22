@@ -13,7 +13,7 @@
 
 - 🌱 My latest project is at [http://129.151.211.126/](http://129.151.211.126/)
 
-- ⚡ Fun fact **Once I was arrested in an airport**
+- ⚡ Fun fact: **Once I was arrested in an airport**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
