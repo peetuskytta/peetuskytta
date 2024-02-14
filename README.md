@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **rebuilding a website** backend with Go
 
-- 🤝 I’m currently:   **open to work (junior/intern)**
+- 🤝 I’m currently:   **working at Abloy**
 
-- 🌱 I'm currently learning   **Python, SQL, Web**
+- 🌱 I'm currently learning   **Firmware Quality Assurance**
 
 - 💬 Ask me about   **why I let phisher test my web app**
 
