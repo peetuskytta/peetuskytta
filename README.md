@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Peetu Skyttä</h1>
-<h3 align="center">Software Developer student @Hive Helsinki</h3>
+<h3 align="center">Quality Assurance Engineer at Abloy & student @Hive Helsinki</h3>
 
 - 🔭 I’m currently hobbying on **rebuilding a website** backend with Go
 
