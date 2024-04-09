@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently hobbying on **rebuilding a website** backend with Go
 
-- 🤝 I’m currently:   **working at Abloy**
+- 🤝 I’m employed by:   **Abloy**
 
 - 🌱 I'm currently learning   **Firmware Quality Assurance**
 
