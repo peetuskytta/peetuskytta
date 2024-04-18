@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **peetu.skytta@gmail.com**
 
-- 🌱 My latest project is at www.jobdb.xyz
+- 🌱 My latest hobby project is at www.jobdb.xyz
 
 - ⚡ Fun fact: **Once I was arrested in an airport**
 
